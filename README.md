@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TheMaryamIsmail
+- 👋 Hey, I’m @TheMaryamIsmail
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Web Development.
-- 💞️ I’m looking to collaborate and learning new techniques in Web Development.
+- 💞️ I’m looking to collaborate and learn new techniques in Web Development.
 - 📫 How to reach me themaryamismail@gmail.com
 - 😄 Pronouns: she/her
