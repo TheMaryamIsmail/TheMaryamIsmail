@@ -8,7 +8,7 @@
   <p align="center">
     <a href="https://linkedin.com/in/maryam-i-767464176"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://github.com/TheMaryamIsmail"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="mailto:contact@maryamismail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="mailto:themaryamismail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Frontend+Web+Developer;Data+Science+%26+ML+Practitioner;Building+Modern+Glassmorphic+UIs;FastAPI+%26+Scikit-Learn+MLOps;Technical+Instructor" alt="Typing SVG" />
@@ -19,7 +19,7 @@
 
 ## 💫 About Me
 
-- 🔭 **Current Focus:** Building responsive web applications & machine learning pipelines using Python and FastAPI.
+- 🔭 **Current Focus:** Building responsive web applications, AI & machine learning pipelines using Python and FastAPI.
 - 🎨 **Design Philosophy:** Specialized in Glassmorphism UI layouts, dark mode aesthetics, and modern web UX.
 - 🎓 **Education & Training:** AI & Data Science @ Saylani Mass IT Training | Web Design & Dev @ SZABIST Zabtech.
 - 👩‍🏫 **Teaching & Mentorship:** Instructor in Web Development, Python, and AI tools.
